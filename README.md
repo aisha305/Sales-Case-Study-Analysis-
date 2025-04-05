@@ -44,23 +44,26 @@ A high-level summary of the company's overall sales and customer performance, in
 - Sales split by **region**, **category**, and **segment**
 - **Target vs Actual** comparison for each state/region
 - **Product return analysis** by category and region
+![Alt text](Sales_Performance.png)
 
 ### 3. 📊 Pareto Analysis
 - Interactive Pareto chart showing sales contribution
 - Dynamic slider to select top X% of customers and see their % contribution to total sales
 - Useful for prioritizing key customers and understanding revenue concentration
+![Alt text](Pareto_Analysis.png)
 
 ### 4. 👥 Customer Analysis
 - **RFM segmentation** of customers (Recency, Frequency, Monetary)
 - Breakdown into high-, medium-, and low-value customer segments
 - New customer acquisition metrics
 - Segment-wise top-performing salespersons and their discount behaviors
+![Alt text](Customer_Analysis.png)
 
 ### 5. 💡 Key Insights
 - Strategic insights based on 2021 performance
 - Sales and customer insights in a presentation-ready format
 - Supports decision-making and targeted action plans for leadership
-
+![Alt text](Key_insights.png)
 ---
 
 ## 🧹 Data Preparation & Cleaning
@@ -102,6 +105,7 @@ This project uses a **star schema model** comprising multiple fact and dimension
 3. 📉 The **customer retention rate is 33%**, highlighting an opportunity to implement retention strategies like loyalty programs and tailored communication.  
 4. 👶 Only **11 new customers** were acquired in 2021, underlining the need for stronger acquisition strategies — such as referral programs and digital campaigns.  
 5. 📊 The **top 50% of customers contribute 80% of total sales**, reaffirming the Pareto principle. Prioritize these customers while also nurturing mid-value segments for growth.
+
 
 ---
 
