@@ -37,7 +37,7 @@ This Power BI report is structured into **five interactive dashboards**, each se
 
 ### 1. 📋 Overview
 A high-level summary of the company's overall sales and customer performance, including key KPIs like total sales, % target achieved, and YoY growth.
-
+![Alt text](Overview.png)
 
 ### 2. 📈 Sales Performance
 - Multi-year trend analysis of sales
